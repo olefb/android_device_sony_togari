@@ -1,0 +1,50 @@
+[
+  {
+    "remote": "lsd",
+    "revision": "kitkat",
+    "repository": "android_device_sony_rhine-common",
+    "target_path": "device/sony/rhine-common"
+  },
+  {
+    "remote": "lsd",
+    "revision": "kitkat",
+    "repository": "android_kernel_sony_msm8974",
+    "target_path": "kernel/sony/msm8974"
+  },
+  {
+    "remote": "cm",
+    "revision": "cm-11.0",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "cm",
+    "revision": "cm-11.0",
+    "repository": "android_device_sony_common",
+    "target_path": "device/sony/common"
+  },
+  {
+    "remote": "lsd",
+    "revision": "kitkat",
+    "repository": "android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common"
+  },
+  {
+    "remote": "ls",
+    "revision": "kitkat",
+    "repository": "android_hardware_qcom_display-caf-new",
+    "target_path": "hardware/qcom/display-caf-new"
+  },
+  {
+    "remote": "ls",
+    "revision": "kitkat",
+    "repository": "android_hardware_qcom_media-caf-new",
+    "target_path": "hardware/qcom/media-caf-new"
+  },
+  {
+    "remote": "tm",
+    "revision": "cm-11.0",
+    "repository": "proprietary_vendor_sony",
+    "target_path": "vendor/sony"
+  }
+]
