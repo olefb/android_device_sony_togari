@@ -18,9 +18,6 @@ include device/sony/rhine-common/BoardConfigCommon.mk
 # inherit from the proprietary version
 #-include vendor/sony/togari/BoardConfigVendor.mk
 
-# External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
-
 # Assert
 TARGET_OTA_ASSERT_DEVICE := C6802,C6806,C6833,C6843,togari
 
