@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "Tommy-Geenexus/android_kernel_sony_msm8974",
+    "repository": "Tommy-Geenexus/android_kernel_sony_msm8974_togari_5.x",
     "target_path": "kernel/sony/msm8974",
     "revision": "master"
   },
