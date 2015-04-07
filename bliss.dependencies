@@ -3,7 +3,7 @@
     "remote": "cm",
     "repository": "android_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "revision": "cm-12.0"
+    "revision": "cm-12.1"
   },
   {
     "remote": "github",
@@ -15,25 +15,25 @@
     "remote": "cm",
     "repository": "android_device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "revision": "cm-12.0"
+    "revision": "cm-12.1"
   },
   {
     "remote": "cm",
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common",
-    "revision": "cm-12.0"
+    "revision": "cm-12.1"
   },
   {
     "remote": "cm",
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-12.0"
+    "revision": "cm-12.1"
   },
   {
     "remote": "cm",
-    "repository": "android_device_sony_qcom-common",
-    "target_path": "device/sony/qcom-common",
-    "revision": "cm-12.0"
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "revision": "cm-12.1"
   },
   {
     "remote": "cm",
