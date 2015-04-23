@@ -56,4 +56,7 @@
     <!-- Does the battery LED support multiple colors? Used to decide if the user can change the colors -->
     <bool name="config_multiColorBatteryLed">true</bool>
 
+    <!-- Doze: force using accelerometer as pick up sensor -->
+	<bool name="config_dozeUseAccelerometer">true</bool>
+
 </resources>
