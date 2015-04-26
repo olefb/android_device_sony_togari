@@ -6,16 +6,10 @@
     "target_path": "device/sony/rhine-common"
   },
   {
-    "remote": "cm",
-    "revision": "cm-12.1",
-    "repository": "android_kernel_sony_msm8974",
+    "remote": "gh",
+    "revision": "master",
+    "repository": "Tommy-Geenexus/android_kernel_sony_msm8974_togari_5.x",
     "target_path": "kernel/sony/msm8974"
-  },
-  {
-    "remote": "cm",
-    "revision": "cm-12.1",
-    "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
   },
   {
     "remote": "cm",
