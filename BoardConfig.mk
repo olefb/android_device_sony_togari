@@ -26,7 +26,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/togari/include
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/togari/bluetooth
 
 # Kernel properties
-TARGET_KERNEL_CONFIG := slim_rhine_togari_row_defconfig
+TARGET_KERNEL_CONFIG := cm_rhine_togari_row_defconfig
 
 # Partition information
 BOARD_VOLD_MAX_PARTITIONS := 26
@@ -37,4 +37,4 @@ BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1056964608
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
 # LIQUIFY OPTIMIZATIONS
-LIQUIFY=true
+# LIQUIFY=true
