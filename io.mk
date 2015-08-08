@@ -2,7 +2,11 @@
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
-(call inherit-product, vendor/io/config/common.mk)
+# Enhanced NFC
+$(call inherit-product, vendor/io/config/nfc_enhanced.mk)
+
+# Inherit CM common Phone stuff.
+$(call inherit-product, vendor/io/config/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/sony/togari/full_togari.mk)
