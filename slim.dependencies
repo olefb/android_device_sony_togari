@@ -1,8 +1,8 @@
 [
   {
-    "repository": "SlimRoms/device_sony_rhine-common",
+    "repository": "olefb/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch": "lp5.1"
+    "branch": "slim_lp5.1"
   },
   {
     "repository": "SlimRoms/device_qcom_common",
@@ -15,9 +15,9 @@
     "branch": "lp5.1"
   },
   {
-    "repository": "SlimRoms/kernel_sony_msm8974",
+    "repository": "olefb/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch": "lp5.1"
+    "branch": "slim_lp5.1"
   },
   {
     "repository": "SlimRoms/device_sony_msm8974-common",
