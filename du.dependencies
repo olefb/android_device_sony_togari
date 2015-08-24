@@ -1,40 +1,48 @@
 [
   {
-    "repository": "olefb/device_sony_rhine-common",
+    "remote": "github",
+    "repository": "olefb/android_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "branch": "slim_lp5.1"
   },
   {
+    "remote": "github",
     "repository": "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
     "branch": "lp5.1"
   },
   {
+    "remote": "github",
     "repository": "SlimRoms/device_sony_common",
     "target_path": "device/sony/common",
     "branch": "lp5.1"
   },
   {
-    "repository": "olefb/kernel_sony_msm8974",
+    "remote": "github",
+    "repository": "olefb/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "branch": "slim_lp5.1"
   },
   {
+    "remote": "github",
     "repository": "SlimRoms/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
     "branch": "lp5.1"
   },
   {
+    "remote": "github",
     "repository": "CyanogenMod/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "branch": "cm-12.1"
   },
   {
+    "remote": "github",
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch": "cm-12.1"
   },
   {
+    "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "branch": "cm-12.1"
