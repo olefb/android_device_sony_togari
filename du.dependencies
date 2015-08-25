@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "DirtyUnicorns/android_device_qcom-common",
     "target_path": "device/qcom/common",
-    "branch": "cm-12.1"
+    "branch": "lollipop-caf"
   },
   {
     "remote": "github",
