@@ -12,12 +12,12 @@
   {
     "repository": "olefb/android_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch":      "slim_lp5.1"
+    "branch":      "aicp_lp5.1"
   },
   {
     "repository": "olefb/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch":      "slim_lp5.1"
+    "branch":      "mean"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
