@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# we need this set before including the other makefiles
+RECOVERY_VARIANT := twrp
+BLOCK_BASED_OTA := false
+
 # inherit from the common rhine definitions
 include device/sony/rhine-common/BoardConfigCommon.mk
 
